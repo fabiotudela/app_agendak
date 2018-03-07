@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+
+    <!-- Mensaje de error -->
+    <string name="campos_vacios">
+        Complete all fields
+    </string>
+
+    <!-- Mensaje de info " Los Strings tienen que ir SIN ESPACIOS-->
+    <string name="guardado_correcto">
+        Succesfully registered
+    </string>
+</resources>
